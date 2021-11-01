@@ -1,0 +1,131 @@
+[
+    {
+        "Establisment A": "restaurante",
+         "id establisment": "A",
+         "product id":[1,2,3],
+         "product": "Água",
+         "category id" :[6],
+         "price": 5.0
+     },
+     {
+         "id establisment":"A",
+         "product id":[1,3],
+         "product ": "Suco",
+         "category id":[5],
+         "price": 6.0
+     },
+     {
+         "id establisment":"A",
+         "product id":[1,2,3],
+         "product ": "Guaraná",
+         "category id":[6],
+         "price": 9.0
+     },
+     {
+         "id establisment":"A",
+         "product id":[1],
+         "product": "Aliminuta",
+         "category id":[7],
+         "price": 28.0
+     },
+     {
+         "id establisment":"A",
+         "product id":[1],
+         "product": "Churrasco",
+         "category id":[7],
+         "price":31.9
+     },
+     {
+         "Establisment B": "Comida Asiatica",
+         "id establisment":"B",
+         "product id":[1,2,3],
+         "product ": "Água",
+         "category id":[6],
+         "price":5.0
+     },
+     {
+         "id establisment":"B",
+         "product id":[1,2,3],
+         "product ": "Guaraná",
+         "category id":[6],
+         "price":9.0
+     },
+     {
+         "id establisment":"B",
+         "product id":[2],
+         "product": "Rolinho Primavera",
+         "category id":[4,5],
+         "price":15.9
+     },
+     {
+         "id establisment":"B",
+         "product id":[2],
+         "product": "Temaki",
+         "category id":[3,5],
+         "price":20.9
+     },
+     {
+         "id establisment":"B",
+         "product id":[2],
+         "product": "Sushi",
+         "category id":[3,5,7],
+         "price":70.0
+     },
+     {
+         "Establisment C": "Fast Lanches",
+         "id establisment":"C",
+         "product id":[1,2,3],
+         "product":"Água",
+         "category id":[6],
+         "price":5.0
+     },
+     {
+         "id establisment":"C",
+         "product id":[1,3],
+         "product": "Suco",
+         "category id":[5],
+         "price":6.0
+     },
+     {
+         "id establisment":"C",
+         "product id":[1,2,3],
+         "product": "Guaraná",
+         "category id":[6],
+         "price":9.0
+     },
+     {
+         "id establisment":"C",
+         "product id":[3],
+         "product": "Batata Frita",
+         "category id":[1],
+         "price":15.0
+     },
+     {
+         "id establisment":"C",
+         "product id":[3],
+         "product": "Hamburguer",
+         "category id":[1,2],
+         "price":28.5
+     },
+     {
+         "id establisment":"C",
+         "product id":[3],
+         "product": "Xis Frango",
+         "category id":[1],
+         "price":30.0
+     },
+     {
+         "id establisment":"C",
+         "product id":[3],
+         "product": "Xis Carne",
+         "category id":[1],
+         "price":31.0
+     },
+     {
+         "id establisment":"C",
+         "product id":[3],
+         "product": "Xis Coração",
+         "category id":[1],
+         "price":36.5
+     }
+]
